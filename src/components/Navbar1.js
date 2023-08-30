@@ -16,7 +16,7 @@ export default function NavBar() {
                         <div className="flex">
                             <img src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRA3T2MrP_G2qRYkC74xJSFT-9gjV5qbGeTYOT9NCoogf236YprkJNsWGSnJr44DDUh4a8&usqp=CAU' className="rounded-full w-10 h-10  mt-1 "/>
                         <a href="javascript:void(0)">
-                            <h2 className="text-3xl md:text-2xl lg:text-4xl xl:text-4xl font-bold text-white">tinder</h2>
+                            <h2 className="text-3xl md:text-2xl lg:text-4xl xl:text-4xl font-bold text-black">tinder</h2>
                         </a></div>
                         <div className="md:hidden">
                             <button
